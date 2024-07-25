@@ -2,5 +2,7 @@
 
 import sqlite3
 
-CONN
-CURSOR
+# CONN
+# CURSOR
+
+print("Hello world!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
